@@ -1,0 +1,10 @@
+{
+  "name": "inventario-arsan-motors",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Inventario de herramienta y equipo · Arsan Motors (Netlify Functions + Netlify Blobs)",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.3"
+  }
+}
